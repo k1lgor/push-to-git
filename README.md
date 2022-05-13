@@ -7,7 +7,7 @@ git clone https://github.com/k1lgor/push-to-git.git
 
 # if you want the script to be in your home dir
 mv /path/to/push-to-git/push.sh ~/
-#or 
+# or 
 cp /path/to/push-to-git/push.sh ~/
 
 # make it executable
