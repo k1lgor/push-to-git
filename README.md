@@ -17,6 +17,6 @@ chmod +x push.sh
 # 1 - a dir where your files are located 
 # 2 - a commit message 
 # Example
-# ./push.sh ~/Documents/MyProject/ 'first commit'
+# ./push.sh ~/Documents/MyProject/ 'first-commit'
 
 # ! your git repo must be already initialized 
